@@ -1,0 +1,164 @@
+.titledesuyo{
+    color: dodgerblue;
+    font-family: "Darumadrop One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 100px;
+  line-height: 0.1em;
+  letter-spacing: 10px;
+}
+
+
+header {
+  background-color: lightyellow;
+  width: 100%;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.nav-list {
+  color: lightcoral;
+  font-family:"Gillsans";
+  font-weight:100;
+  font-size:40px;
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.check-item{
+  color: dodgerblue;
+  font-family:"Gillsans";
+  font-weight:100;
+  font-size:45px;
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 auto;
+  text-decoration: dodgerblue solid underline;
+}
+
+footer {
+  background-color: lightyellow;
+  width: 100%;
+  padding: 15px 0;
+  margin: 200 auto;
+  text-align: center;
+}
+
+.footer-item-list {
+  font-family:"Gillsans";
+  
+  text-align: center;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.footer-item{
+  color: lightcoral;
+  font-weight:100;
+  font-size:30px;
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+image{
+  width: 330px;
+  height: 220px;
+  object-fit: cover;
+}
+
+a{
+  color:inherit;
+  text-decoration: none;
+}
+
+h2{
+  color: lightcoral;
+  font-family:"Gillsans";
+  font-weight:bold;
+  font-size:40px;
+  text-align: center;
+  margin-bottom:50px;
+}
+
+h3{
+  color: lightcoral;
+  font-family:"Gillsans";
+  font-weight:normal;
+  font-size:20px;
+  text-align: center;
+  margin-bottom:40px;
+}
+
+.news-contants{
+  margin-bottom:80px;
+}
+
+.news-date{
+  width: 1000px;
+  border-top:dashed dodgerblue 5px;
+  color: darkslategray;
+  font-family:"Gillsans";
+  font-weight:100;
+  font-size:30px;
+  text-align: left;
+  padding: 10px 0;
+  margin: 0 auto;
+}
+
+.news-title{
+  color: lightcoral;
+  font-family:"Gillsans";
+  font-weight:100;
+  font-size:30px;
+  text-align: center;
+  padding: 5px 0;
+  margin: 0 auto;
+  margin-bottom:10px;
+}
+
+.news-text{
+  color: darkslategray;
+  font-family:"Gillsans";
+  font-weight:100;
+  font-size:20px;
+  text-align: center;
+  padding: 5px 0;
+  margin: 0 auto;
+}
+
+.pct-title{
+  text-align:center;
+  color:lightcoral;
+  font-family:"ヒラギノ角ゴ";
+  font-weight:200;
+  font-size:28px;
+  text-align: center;
+  margin:0 auto;
+  background-color:lightyellow;
+  width:80%;
+  height:60px;
+  margin-top:5%;
+}
+
+.pct-item{
+  text-align: center;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  gap:2%;
+  margin-bottom:2%;
+}
+
+.speciallink{
+  text-decoration:underline;
+  color:dodgerblue;
+  font-weight:bold;
+}
